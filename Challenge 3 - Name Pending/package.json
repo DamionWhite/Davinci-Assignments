@@ -1,0 +1,12 @@
+{
+  "name": "challenge-s3-name-pending",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
